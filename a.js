@@ -1,4 +1,4 @@
-alert("")
+alert("asdgfsd")
 (function() {
     // Generates a random string of text
     function makeRandomText() {
